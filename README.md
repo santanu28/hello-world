@@ -1,5 +1,5 @@
 # hello-world
-Just a repository
+
 How do we know if we’re in control?
 That we’re not just making the best of what comes at us, and that’s it. Trying to constantly pick between two options.
 Like your two paintings in the waiting room. Or Coke and Pepsi. McDonald’s or Burger King? Hyundai or Honda? It’s all part of the same blur, right? Just out of focus enough. It’s the illusion of choice.
